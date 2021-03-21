@@ -7,3 +7,11 @@
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=codedge.codedge" alt="visitor badge"/>       
 </p>
+
+### What I am currently up to
+
+**Exercism.io**
+
+<a href="https://exercism.io/profiles/codedge">
+<img align="center" src="https://img.shields.io/badge/dynamic/json?label=solutions&query=total&url=https%3A%2F%2Fexercism-stats-scraper.netlify.app%2Fapi%2Fsolutions%3Fuser%3Dcodedge&logo=exercism&logoColor=white" />
+</a>
