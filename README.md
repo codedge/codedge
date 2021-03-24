@@ -8,17 +8,21 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=codedge.codedge" alt="visitor badge"/>       
 </p>
 
-### What I am currently up to
+### What I recently worked on
 
-**Statamic** 
+#### Statamic
 
-- Extension for generating a Google Merchant Feed
+- Extension for generating a Google Merchant Feed.. coming soon
+- [HERE maps addon](https://statamic.com/addons/codedge/statamic-here-maps)
+- [Magic link addon](https://statamic.com/addons/codedge/statamic-magiclink)
 
-**Ideas**
+#### Ideas & other things
 
 - Little app to check redirect old page/url to new page/url
 
 **Exercism.io**
+
+I enjoy doing some coding challenges/tasks. See [my profile](https://exercism.io/profiles/codedge).
 
 <a href="https://exercism.io/profiles/codedge">
 <img align="center" src="https://img.shields.io/badge/dynamic/json?label=solutions&query=total&url=https%3A%2F%2Fexercism-stats-scraper.netlify.app%2Fapi%2Fsolutions%3Fuser%3Dcodedge&logo=exercism&logoColor=white" />
