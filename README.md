@@ -12,6 +12,7 @@
 
 #### Statamic
 
+- [Move Entries](https://github.com/codedge/statamic-move-entries)
 - [Google Merchant Feed](https://github.com/codedge/statamic-google-merchant)
 - [HERE maps addon](https://statamic.com/addons/codedge/statamic-here-maps)
 - [Magic link addon](https://statamic.com/addons/codedge/statamic-magiclink)
